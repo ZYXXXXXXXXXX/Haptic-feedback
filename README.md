@@ -2,5 +2,7 @@
 ## Whole Schematic  
 ![Flowchart](images/total_Schematic.png)  
 ## Equipments
-MCU: ESP32  
+MCU: ESP32(code in ESBoard)  
 PCB Design:  
+![](images/Schematic1.png)  
+![](images/Schematic2.png)  
