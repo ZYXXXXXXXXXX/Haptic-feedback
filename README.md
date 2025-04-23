@@ -1,6 +1,7 @@
 # Haptic Feedback Device based on Electric Stimulation
 ## Whole Schematic  
 ![Flowchart](images/total_Schematic.png)  
+![](images/electrode.jpg)  
 ## Equipments
 MCU: ESP32(code in ESBoard)  
 PCB Design:  
