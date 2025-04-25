@@ -13,6 +13,6 @@ MCU: ESP32(codes in ESBoard package)
 PCB Design using JLC EDA:  
 ![](images/Schematic1.png)  
 ![](images/Schematic2.png)  
-
-## 8 Directions might be transfer to wearer:  
+Components: current mirror, MCU, High Voltage switches  
+## Directions might be transfer to wearer:  
 ![](images/directions.png)  
