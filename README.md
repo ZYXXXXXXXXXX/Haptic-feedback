@@ -15,4 +15,4 @@ PCB Design using JLC EDA:
 ![](images/Schematic2.png)  
 
 ## 8 Directions might be transfer to wearer:  
-![](images/directions.jpg) 
+![](images/directions.png)  
