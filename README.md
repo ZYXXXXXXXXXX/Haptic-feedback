@@ -4,7 +4,7 @@ This project develops a skin-worn haptic feedback device capable of conveying es
 ![Flowchart](images/total_Schematic.png)  
 <p align="center">
   <img src="images/pcb.jpg" alt="jpg">
-</p>
+</p>  
 ## Equipments
 MCU: ESP32(codes in ESBoard package)  
 PCB Design:  
